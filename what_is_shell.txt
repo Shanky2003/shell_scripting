@@ -1,0 +1,20 @@
+A unix shell program interprets user comands which are either directly entered by the user or which can be read from a file called the shell script or shell programming.
+
+*(NOTE) SHell scriprts are interpreted not compiled { so whenever we write a shell script, its interpreted by our OS & we don't need to compile our shell script on order to execute it.}
+
+~there are different types of shell & we will be learning bash shell scripting.
+ Types of shell :-
+
+	L> sh    - Bourne shell
+	L> bash  - Bourne again shell 
+	L> dash  - Debian Almquist shell
+	L> rbash - Restricted Bash shell
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+|																	|
+| * (NOTE) To know  where bash is located we need to type a command (in terminal)    -> which bash					|
+|																	|
+| * & in order to search, what are the shell types our OS supports, then we have to type a command ( in terminal)   -> cat/etc/shells	|
+|																	|
+-----------------------------------------------------------------------------------------------------------------------------------------
+
